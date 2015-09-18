@@ -1,0 +1,1 @@
+I have not used Cmake to setup my environment. I am manually adding the lib files. 
